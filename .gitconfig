@@ -1,10 +1,9 @@
 [user]
-	email = li1928631@163.com
-	name = Chestnut
+        email = li1928631@163.com
+        name = Chestnut
 [init]
-	defaultBranch = main
-# [http]
-# 	proxy = http://127.0.0.1:1080
-# [https]
-# 	proxy = https://127.0.0.1:1080
-
+        defaultBranch = main
+[http]
+        proxy = http://127.0.0.1:7890
+[https]
+        proxy = http://127.0.0.1:7890
